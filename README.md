@@ -8,6 +8,5 @@ the ready parameters are chosen from a past traning of the same dataset, so it i
 warning: the training will take more than an hour.
 
 the terminal doesnt prompt you to enter the GA hyperparameter. if you wish to try different ones, they can be changed fron genetic_algo.cpp
-it will be noticable that the model doesnt
 
 the datasets included are from https://www.sciencedirect.com/science/article/pii/S2352340922003924. 
