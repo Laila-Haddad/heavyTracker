@@ -12,7 +12,7 @@ const int TRAIN_THRESHOLD = 1000000;
 const int TRAIN_M = 1000;
 
 const string TRAIN_DATA = "train.csv";
-const string TEST_DATA = "million.csv";
+const string TEST_DATA = "milion.csv";
 const int D = 3;
 
 int getValidInput(const string &prompt, const string &errorPrompt, int recommendedValue) {
